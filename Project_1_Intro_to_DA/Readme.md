@@ -6,3 +6,8 @@ This project is introductory project to test preliminary data analysis skills.
 1. Calculating moving averages
 2. Plotting
 3. Providing conclusions based on visual trend on the plot.
+
+### Documents:
+1. Datasets: world.csv and city.csv
+2. Coding notebook: Project1.ipynb
+3. Report: Project1.pdf
