@@ -1,6 +1,8 @@
-### Project 1: Analysis of recent trends of weather temperature in Tashkent relative to World average temperature.
+## Project 1: Analysis of recent trends of weather temperature in Tashkent relative to World average temperature.
 This project is introductory project to test preliminary data analysis skills.
-## Data: The data consist of world (world.csv) and Tashkent city (city.csv) average temperatures.
+### Data: The data consist of world (world.csv) and Tashkent city (city.csv) average temperatures.
 
 ### Steps:
-1. 
+1. Calculating moving averages
+2. Plotting
+3. Providing conclusions based on visual trend on the plot.
